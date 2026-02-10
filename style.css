@@ -18,9 +18,9 @@ h1 {
 
 body {
   margin: 0px;
-  background: url(https://i.postimg.cc/5tgNs0n9/couple-sunset-city-scenery-art-uhdpaper-com-4-K-8-264.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-image: url(heart.jpg);
 }
 
 .container {
@@ -202,4 +202,5 @@ p {
   font-weight: 700;
   color: white;
   text-shadow: 0 0 10px rgb(0, 0, 0);
+
 }
